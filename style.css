@@ -1,0 +1,32 @@
+.black {
+  background-color: black;
+}
+.search {
+  margin-left: 8vw !important;
+}
+.btn_primary {
+  border: none;
+  background-color: black;
+  color: white;
+  width: 12vw;
+  font-size: 17px;
+  height: 8vh;
+}
+.function_buttons {
+  gap: 30px;
+  margin-top: 40px;
+}
+table,
+td,
+th {
+  border: 1px solid !important;
+  padding: 10px;
+  text-align: center;
+}
+
+table {
+  width: 85%;
+  border-collapse: collapse;
+  margin-inline: auto;
+  margin-top: 25px;
+}
